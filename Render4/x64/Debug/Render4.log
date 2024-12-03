@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Oblig1Sim.vcxproj, Oblig2Sim.vcxproj, Oblig2Vis.vcxproj, Render4.vcxproj, Render5.vcxproj, Render7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test.cpp
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\FolderExamVis\Render4\test.cpp(156,207): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\FolderExamVis\Render4\test.cpp(198,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\FolderExamVis\Render4\test.cpp(198,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\FolderExamVis\Render4\test.cpp(198,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Render4.vcxproj -> C:\Users\chris\OneDrive\Skrivebord\Fragmon\FolderExamVis\x64\Debug\FolderExamVis.exe
